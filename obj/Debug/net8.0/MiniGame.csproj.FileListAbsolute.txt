@@ -12,3 +12,4 @@ C:\Users\rkpra\Desktop\MiniGame\MiniGame\obj\Debug\net8.0\refint\MiniGame.dll
 C:\Users\rkpra\Desktop\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.pdb
 C:\Users\rkpra\Desktop\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.genruntimeconfig.cache
 C:\Users\rkpra\Desktop\MiniGame\MiniGame\obj\Debug\net8.0\ref\MiniGame.dll
+C:\Users\rkpra\Desktop\MiniGame\MiniGame\obj\Debug\net8.0\MiniGame.sourcelink.json

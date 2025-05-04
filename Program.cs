@@ -49,8 +49,8 @@ void ShowFood()
     food = random.Next(0, foods.Length);
 
     // Update food position to a random location
-    foodX = random.Next(0, width - player.Length);
-    foodY = random.Next(0, height - 1);
+    foodX = random.Next(0, (width / 3)) * 3;
+    foodY = random.Next(0, (height / 3)) * 3;
 
     // Display the food at the location
     Console.SetCursorPosition(foodX, foodY);
